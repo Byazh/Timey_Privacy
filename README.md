@@ -44,6 +44,10 @@ Links to Other Sites
 
 This Service does not contain any links to third parties
 
+Children
+
+This app does not contain violent or harmful content for children. On the contrary it gives children a good and safe environment to bond studies and games. If there are any privacy concerns, I advise parents to sign in the child as a guest user, so that no information will be taken from them. 
+
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.

@@ -8,8 +8,11 @@ open the menu, go to 'Settings' and scroll down to 'Help'. Write your problem on
 - __Request help by email__:
 send us an email at focus.business.developer@gmail.com
 
-- __Request help throught this platform__: 
+- __Request help through this platform__: 
 go to the 'Issues' sections of this repository and open a new issue. 
+
+- __Request help on Instagram__:
+search for 'timey_app' on Instagram and send us a direct message.
 
 We will try and answer you as soon as possible. 
 
